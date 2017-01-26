@@ -1,0 +1,25 @@
+{
+  "name": "dintdes-template",
+  "version": "1.0.0",
+  "description": "Prototype template for dIntDes 2017",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=8000"
+  },
+  "eslintConfig": {
+    "parserOptions": {
+      "ecmaVersion": 5,
+      "sourceType": "script"
+    }
+  },
+  "author": {
+    "name": "Lasse Legaard",
+    "email": "lasse.legaard@post.au.dk"
+  },
+  "keywords": ["au", "template", "dintdes"],
+  "license": "ISC",
+  "private": "true",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
