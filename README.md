@@ -39,12 +39,12 @@ Når NodeJS er installeret på maskinen, skal der navigeres (vha. Terminalen ell
 npm install
 ```
 
-Herefter er `live-server` installeret lokalt i folderen. (`live-server` kan også installeres "globalt" ved at skrive `npm install -g live-server`. Gøres dette startes en server ved at `live-server` i folderen). Nu kan serveren startes ved at skrive
+Herefter er `live-server` installeret lokalt i folderen. (`live-server` kan også installeres "globalt" ved at skrive `npm install -g live-server`. Gøres dette startes en server ved at skrive `live-server` i folderen). Nu kan serveren startes med kommandoen
 
 ```
 npm start
 ```
 
-Hver kan ændringer foretages og gemmes, vil browseren automatisk opdatere.
+Hver gang ændringer foretages og gemmes, vil browseren automatisk opdatere.
 
 Det var alt – god fornøjelse!
