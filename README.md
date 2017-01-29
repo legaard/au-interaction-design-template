@@ -1,5 +1,5 @@
 # Interaktionsdesign skabelon
-Dette projekt indeholder en simple skabelon til udvikling af prototyper i kurset
+Dette projekt indeholder en simpel skabelon til udvikling af prototyper i kurset
 *Interaktionsdesign* (som udbydes på Aarhus Universitet).
 
 For at kunne anvende "live reload" – dvs. browseren automatisk opdaterer siden når
@@ -7,7 +7,7 @@ For at kunne anvende "live reload" – dvs. browseren automatisk opdaterer siden
 
 
 ## Indhold
-I skabelonens `index.html` indlæses [jQuery](https://jquery.com/) og [Font Awesome](http://fontawesome.io/) (se head tag), hvilket gør det muligt at anvende disse bibliotkeker uden at foretage sig yderligere.
+I skabelonens `index.html` indlæses [jQuery](https://jquery.com/) og [Font Awesome](http://fontawesome.io/) (se head tag), hvilket gør det muligt at anvende disse biblioteker uden at foretage sig yderligere.
 
 #### Font Awesome
 Font Awesome er et CSS-bibliotek der tilbyder en række skalerbare vektor ikoner, som kan anvendes ved brug af et italics tag og *class* attributten. Et eksempel kunne være
