@@ -45,6 +45,6 @@ Herefter er `live-server` installeret lokalt i folderen. (`live-server` kan ogs�
 npm start
 ```
 
-Hver gang ændringer foretages og gemmes, vil browseren automatisk opdatere.
+Hver gang ændringer foretages og gemmes, vil browseren automatisk opdatere. Tryk `ctrl+c` for at stoppe serveren.
 
 Det var alt – god fornøjelse!
